@@ -10,7 +10,7 @@ var server = http.createServer('index.html');
 
 
 function setup() {
-  createCanvas(1200, 650);
+  createCanvas(800, 400);
   background(252,252,252);
 
 }
